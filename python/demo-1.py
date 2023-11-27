@@ -23,7 +23,7 @@ try:
     time.sleep(1) # Allow time for Notepad to start
 
     # Connect to the Notepad window
-    notepad_app = app.connect(title_re='Untitled - Notepad', timeout=10)
+    notepad_app = app.connect(title_re='Untitled - Notepad', timeout=10) # Could use regex to match to any Notepad window
 
     # Print the identifiers to the console
     # notepad_app.UntitledNotepad.print_control_identifiers()
