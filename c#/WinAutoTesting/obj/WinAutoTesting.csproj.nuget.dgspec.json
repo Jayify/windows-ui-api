@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Personal Repositories\\windows-ui-api\\WinAutoTesting\\WinAutoTesting.csproj": {}
+    "B:\\Personal Repositories\\windows-ui-api\\c#\\WinAutoTesting\\WinAutoTesting.csproj": {}
   },
   "projects": {
-    "B:\\Personal Repositories\\windows-ui-api\\WinAutoTesting\\WinAutoTesting.csproj": {
+    "B:\\Personal Repositories\\windows-ui-api\\c#\\WinAutoTesting\\WinAutoTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Personal Repositories\\windows-ui-api\\WinAutoTesting\\WinAutoTesting.csproj",
+        "projectUniqueName": "B:\\Personal Repositories\\windows-ui-api\\c#\\WinAutoTesting\\WinAutoTesting.csproj",
         "projectName": "WinAutoTesting",
-        "projectPath": "B:\\Personal Repositories\\windows-ui-api\\WinAutoTesting\\WinAutoTesting.csproj",
+        "projectPath": "B:\\Personal Repositories\\windows-ui-api\\c#\\WinAutoTesting\\WinAutoTesting.csproj",
         "packagesPath": "C:\\Users\\Jayden\\.nuget\\packages\\",
-        "outputPath": "B:\\Personal Repositories\\windows-ui-api\\WinAutoTesting\\obj\\",
+        "outputPath": "B:\\Personal Repositories\\windows-ui-api\\c#\\WinAutoTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jayden\\AppData\\Roaming\\NuGet\\NuGet.Config",
