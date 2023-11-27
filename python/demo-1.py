@@ -1,5 +1,5 @@
 """
-This is a test file to test the PyWinAuto library. This allows use of Windows UI Automation through Python.
+This files demonstrates writing to a blank untitled Notepad file using PyWinAuto, a Python library that allows Windows UI Automation.
 
 Warning: 
 The program WILL throw an error if:
